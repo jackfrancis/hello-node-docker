@@ -1,0 +1,14 @@
+{
+  "name": "hello-node-docker",
+  "version": "0.0.0",
+  "description": "Sample Node App for Docker consumption",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jack Francis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.0.0"
+  }
+}
